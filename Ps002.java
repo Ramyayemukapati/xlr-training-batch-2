@@ -1,4 +1,4 @@
-public class ps002 {
+public class Ps002 {
     public static void main(String[] args) {
         int limit = 1000; 
 
