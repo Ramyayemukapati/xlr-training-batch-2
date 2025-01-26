@@ -1,7 +1,7 @@
 
-class dem4
+class Demo4
 {
-    // Prints numbers from 1 to n
+    
     static void printNos(int n)
     {
         if(n > 0)
@@ -12,7 +12,7 @@ class dem4
         return;
     }
 
-    // Driver Code
+    
     public static void main(String[] args) 
     {
         printNos(100);
