@@ -1,4 +1,4 @@
-class lt002 {
+class Lt002 {
     public int reverse(int x) {
         int reversed = 0;
         while (x != 0) {
