@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class demo008 {
+public class Demo008 {
     
     
     
