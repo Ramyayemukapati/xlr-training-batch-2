@@ -1,4 +1,4 @@
-public class lt003 {
+public class Lt003 {
 
     public int myAtoi(String s) {
         s = s.trim();
